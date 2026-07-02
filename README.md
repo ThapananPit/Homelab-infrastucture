@@ -8,7 +8,7 @@ I wanted a real environment to apply security concepts in practice rather than o
 
 ## Architecture Overview
 
-*(insert sanitized network diagram here — RFC 5737 documentation ranges, generic hostnames)*
+*(placeholer — RFC 5737 documentation ranges, generic hostnames)*
 
 The lab is built around a repurposed PC running **TrueNAS** as the core server, with workloads separated into VMs by trust level and purpose. Remote access is handled via a dedicated router-level VPN rather than host-level exposure, with a deliberate design choice to avoid port forwarding entirely.
 
@@ -48,5 +48,5 @@ The lab is built around a repurposed PC running **TrueNAS** as the core server, 
 
 ## Contact
 
-- LinkedIn: [add link]
-- Portfolio: [add link]
+- LinkedIn: [placeholderLink]
+- Portfolio: [placholderLink]
