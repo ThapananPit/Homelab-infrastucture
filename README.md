@@ -41,7 +41,6 @@ The lab is built around a repurposed PC running **TrueNAS** as the core server, 
 
 ## Roadmap
 
-- [ ] Finish Pi-hole migration to dedicated Raspberry Pi
 - [ ] Document network segmentation / VLAN policy
 - [ ] Write up OpenClaw isolation setup in detail
 - [ ] Add sanitized topology diagram
